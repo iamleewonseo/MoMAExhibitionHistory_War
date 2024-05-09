@@ -14,5 +14,4 @@ Step 3.
 From a pool of 5,457 items, total of 36 exhibition items were printed. Out of these, 20 selected exhibition items were meticulously cataloged using Omeka-S, an open-source web-publishing platform to create a public digital exhibition. 20 items were bulk-uploaded as a csv file, that was created by python script.
 
 Step 4.
-Each item underwent a thorough cataloging process adhering to metadata standards like the Dublin Core Standard and CIDOC CRM Ontology. Also controlled vocabulary such as wikidata Q number and Getty ULAN was used. A dedicated digital exhibition website has been launched to showcase the curated collection. Please visit: http://omekas.prattsi.org/s/moma-war-exhibitions/page/moma-war-exhibitions-about 
-
+Each item underwent a thorough cataloging process adhering to metadata standards like the Dublin Core Standard and CIDOC CRM Ontology. Also controlled vocabulary such as wikidata Q number and Getty ULAN was used. A dedicated digital exhibition website has been launched to showcase the curated collection. Please visit: http://omekas.prattsi.org/s/moma-war-exhibitions/item
