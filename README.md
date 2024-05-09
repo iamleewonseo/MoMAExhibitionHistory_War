@@ -2,7 +2,7 @@
 
 How did MoMA illustrate WWI, WWII, and other wars through exhibitions?
 
-This project leverages MoMA’s Open Exhibition Index Dataset to curate a catalog featuring twenty exhibition items  span-ning ninety five years of the institution’s history, all centered around the theme of "War". Today we are marked by per-sistent news of conflicts and warfare around the world. Del-ving into how contemporary art has grappled with these issues provides a unique avenue for reflection and a meaningful di-alogue about the way forward for us.
+This project leverages MoMA’s Open Exhibition Index Dataset to curate a catalog featuring twenty exhibition items  span-ning ninety five years of the institution’s history, all centered around the theme of "War". Today we are marked by per-sistent news of conflicts and warfare around the world. Delving into how contemporary art has grappled with these issues provides a unique avenue for reflection and a meaningful dialogue about the way forward for us.
 
 Step 1. 
 Used Beautiful Soup for web scrapping to extract data from MoMA’s exhibition history website, focusing on the period from 1990 to 2024. Merged this web-scrapped data with MoMA’s Open Exhibition Index Data file covering 1929 to 1989, creating a unified CSV file dataset. Please visit MoMA's Github account for the Open Exhibition Index Data: https://github.com/MuseumofModernArt/exhibitions
